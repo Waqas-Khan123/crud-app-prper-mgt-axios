@@ -1,0 +1,21 @@
+.main{
+    width: 80%;
+ 
+}
+table{
+    width: 60%;
+    margin:0 auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+  
+}
+.btn{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }

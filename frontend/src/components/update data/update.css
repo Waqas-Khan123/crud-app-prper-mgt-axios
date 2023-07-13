@@ -1,0 +1,23 @@
+
+    .main1 {
+    
+        height: 600px;
+        /* margin: 0 auto; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.box1{
+    width: 40%;
+    height: 500px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+
+}
+input{
+    padding: 10px 5px;
+}
